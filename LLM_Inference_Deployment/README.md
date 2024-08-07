@@ -8,3 +8,5 @@
 - Ray Serve：稳定的Pipeline和灵活的部署，它最适合更成熟的项目；
 - MLC LLM：可在客户端（边缘计算）（例如，在Android或iPhone平台上）本地部署LLM；
 - DeepSpeed-MII：使用DeepSpeed库来部署LLM
+- TensorRT-LLM：英伟达(NVIDIA)在TensorRT基础上针对LLM优化所推出的推理加速引擎TensorRT-LLM
+- GPT4All
