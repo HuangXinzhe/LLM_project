@@ -10,3 +10,5 @@
 - DeepSpeed-MII：使用DeepSpeed库来部署LLM
 - TensorRT-LLM：英伟达(NVIDIA)在TensorRT基础上针对LLM优化所推出的推理加速引擎TensorRT-LLM
 - GPT4All
+- FastChat: 用于训练、部署和评估基于大型语言模型的聊天机器人的开放平台
+- AirLLM：使用4G显存即可在70B大模型上进行推理
