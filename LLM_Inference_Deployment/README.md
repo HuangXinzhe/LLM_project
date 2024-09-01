@@ -12,3 +12,4 @@
 - GPT4All
 - FastChat: 用于训练、部署和评估基于大型语言模型的聊天机器人的开放平台
 - AirLLM：使用4G显存即可在70B大模型上进行推理
+- TogetherAI: LLM推理引擎
