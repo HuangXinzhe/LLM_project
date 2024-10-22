@@ -1,0 +1,11 @@
+# RAG实现工具
+### RAG
+- LangChain
+- LlamaIndex
+### 互联网搜索
+- Metaphor：旨在将LLM连接到互联网，在互联网上进行完全神经化、高度语义化的搜索，还可以从结果中获得干净的HTML内容。
+### 向量数据库
+- ChromaDB
+- Pinecone
+- FAISS
+- Milvus
